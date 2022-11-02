@@ -1,0 +1,6 @@
+
+ El numeor de letras a que se encontraron es 4 
+ El numeor de letras e que se encontraron es 1 
+ El numeor de letras i que se encontraron es 4 
+ El numeor de letras o que se encontraron es 1 
+ El numeor de letras u que se encontraron es 3 
